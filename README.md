@@ -117,11 +117,4 @@ This project is for **educational purposes only**. Use responsibly:
 - [Selenium Documentation](https://www.selenium.dev/documentation/)  
 - [ChromeDriver Setup Guide](https://chromedriver.chromium.org/getting-started)  
 
----
 
-To enable this Wiki:  
-1. Go to your repo → **Settings** → **Features** → **Wikis** → **Enable**.  
-2. Click **Wiki** in the repo header → **Create the first page**.  
-3. Paste this template and customize!  
-
-Let me know if you’d like to add **specific sections** (e.g., advanced evasion techniques). 🎯
