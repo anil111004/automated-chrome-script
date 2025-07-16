@@ -3,7 +3,7 @@ Here’s a **GitHub Wiki** template for your Automated Chrome Script project. Yo
 
 ---
 
-# **Automated Chrome Script Wiki**  
+# **Automated Chrome **  
 *A stealthy, automated Chrome browser for assessments with anti-detection features.*  
 
 ---
